@@ -1,0 +1,106 @@
+
+
+body{
+    background-color:cadetblue;
+
+}
+
+/*#signup1{
+    margin-bottom: 50px;
+}*/
+
+select{
+    margin-top: 4px;
+}
+option{
+    background-color: thistle;
+   
+}
+.carddiv{
+    display: inline-block;
+}
+
+button{
+    background-color: turquoise;
+    border-radius: 10px;
+    padding: 6px;
+   
+}
+.chisty {
+    background-color:cornflowerblue;
+    border: 2px dotted darkblue;
+    padding: 2%;
+    margin: 20px;
+    border-radius: 10px;
+    height: 600px;
+    width: 40%;
+    text-align: center;
+}
+
+.zubair {
+    background-color:steelblue;
+    border: 2px dotted darkblue;
+    padding: 2%;
+    margin: 20px;
+    border-radius: 10px;
+    height: 580px;
+    width: 40%;
+    text-align: center;
+    
+}
+div.sinlog{
+   width: 40%; 
+   height: 450px;
+  display: inline-block;
+}
+.sign{
+
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+   
+  
+    border-radius: 10px;
+   
+}
+.log{
+ 
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+   
+   
+    
+    border-radius: 10px;
+    
+}
+.cardh{
+    width: 25%;
+    border: 3px dotted greenyellow;
+    margin: 20px;
+    padding: 20px;
+   display: inline-block;
+}
+
+.menu{
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    background-color:darkcyan;
+}
+ul li{
+
+    display: inline-block;
+    padding: 10px 30px ;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: darkturquoise;
+
+}
+ul li a:hover a {
+    color:dimgray;
+}
